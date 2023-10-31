@@ -1,1 +1,1 @@
-# applied-signal-processing-laboratory
+# Applied Signal Processing Laboratory Projects
